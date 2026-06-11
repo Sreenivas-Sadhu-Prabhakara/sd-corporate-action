@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-corporate-action
+description: "BIAN Service Domain: Corporate Action (Process pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Securities"
+  bian/asset-type: "Corporate Action Event"
+  bian/control-record: "Corporate Action Event Procedure"
